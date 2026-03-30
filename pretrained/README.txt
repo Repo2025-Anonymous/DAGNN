@@ -1,0 +1,1 @@
+Please put the pretrained model here, including SAM2 and DINOv3.
