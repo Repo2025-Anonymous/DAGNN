@@ -1,6 +1,6 @@
 # Unleashing Generalization Potential of VFM for Cross-Domain Few-Shot Segmentation
 
-#### This is the official implementation of our paper "Prototype Modulation Network for Cross-Domain Few-Shot Semantic Segmentation", which is submitted to TNNLS2025.
+#### This is the official implementation of our paper "Unleashing Generalization Potential of VFM for Cross-Domain Few-Shot Segmentation", which is submitted to ICML2026.
 ![image](figs/overall.png) 
 
 
