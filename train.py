@@ -42,7 +42,7 @@ def train(epoch, model, dataloader, optimizer, training):
 
 if __name__ == '__main__':
     # Arguments parsing
-    parser = argparse.ArgumentParser(description='Cross-Domain Few-Shot Semantic Segmentation Pytorch Implementation')
+    parser = argparse.ArgumentParser(description='Unleashing Generalization Potential of VFM for Cross-Domain Few-Shot Segmentation')
     parser.add_argument('--datapath', type=str, default='./Dataset')
     parser.add_argument('--benchmark', type=str, default='pascal')
     parser.add_argument('--backbone', type=str, choices=['resnet50', 'resnet101'], default='resnet50', help='backbone of semantic segmentation model')   
